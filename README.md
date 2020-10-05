@@ -12,9 +12,7 @@ The goal of this project is so classify the presence of pneumonia in a patient b
 ## Dataset
 Available on Kaggle [1]. 5863 labelled x-ray images from a frontal view. There are 2 categories of normal/pneumonia.
 https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
-## Installation:
-* [Running the Kaggle kernal is the easiest method of runnning this notebook.](https://www.kaggle.com/brucemacd/detecting-pneumonia-in-x-ray-images)
-* If you are running the notebook locally you must download the [data source](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia) and extract it to the root of the directory of this repo.
+
 ## Requirements
 Type below command in cmd to get up and running with the dependencies of the file.
 ```
